@@ -1,0 +1,14 @@
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\bin\Debug\net6.0\AgendamentoConsultas.Data.deps.json
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\bin\Debug\net6.0\AgendamentoConsultas.Data.dll
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\bin\Debug\net6.0\AgendamentoConsultas.Data.pdb
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.csproj.AssemblyReference.cache
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.AssemblyInfoInputs.cache
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.AssemblyInfo.cs
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.csproj.CoreCompileInputs.cache
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.dll
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\refint\AgendamentoConsultas.Data.dll
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.pdb
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\ref\AgendamentoConsultas.Data.dll
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\bin\Debug\net6.0\AgendamentoConsultas.Data.runtimeconfig.json
+E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.Data\obj\Debug\net6.0\AgendamentoConsultas.Data.genruntimeconfig.cache
