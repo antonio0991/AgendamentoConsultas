@@ -35,3 +35,40 @@ E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0
 E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Humanizer.dll
 E:\Code\unifacisa\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\appsettings.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.API.exe
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.API.deps.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.API.runtimeconfig.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.API.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.API.pdb
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.Data.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\bin\Debug\net6.0\AgendamentoConsultas.Data.pdb
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\scopedcss\bundle\AgendamentoConsultas.API.styles.css
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.csproj.CopyComplete
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\refint\AgendamentoConsultas.API.dll
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.pdb
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\AgendamentoConsultas.API.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Área de Trabalho\AgendamentoConsultas\AgendamentoConsultas.API\obj\Debug\net6.0\ref\AgendamentoConsultas.API.dll

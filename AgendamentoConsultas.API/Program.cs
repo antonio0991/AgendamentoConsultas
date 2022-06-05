@@ -10,8 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var connectionString = "Server=127.0.0.1;Port=3306;Database=consultasdb;Uid=admin;Pwd=admin;";
-var serverVersion = new MySqlServerVersion(new Version(8, 0, 21));
+var connectionString = "Server=127.0.0.1;Port=3306;Database=consultasdb;Uid=root;Pwd=root;";
+var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
 
 builder.Services.AddDbContextPool<DataContext>(options => options.UseMySql(connectionString, serverVersion).EnableSensitiveDataLogging().EnableDetailedErrors());
 

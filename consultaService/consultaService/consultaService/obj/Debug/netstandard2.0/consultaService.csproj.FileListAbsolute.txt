@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\bin\Debug\netstandard2.0\consultaService.deps.json
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\bin\Debug\netstandard2.0\consultaService.dll
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\bin\Debug\netstandard2.0\consultaService.pdb
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.dll
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\refint\consultaService.dll
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\consultaService.pdb
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService\obj\Debug\netstandard2.0\ref\consultaService.dll

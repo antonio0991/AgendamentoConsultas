@@ -921,19 +921,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Antonio\\.nuget\\packages\\": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\unifacisa\\AgendamentoConsultas\\AgendamentoConsultas.API\\AgendamentoConsultas.API.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\AgendamentoConsultas\\AgendamentoConsultas.API\\AgendamentoConsultas.API.csproj",
       "projectName": "AgendamentoConsultas.API",
-      "projectPath": "E:\\Code\\unifacisa\\AgendamentoConsultas\\AgendamentoConsultas.API\\AgendamentoConsultas.API.csproj",
-      "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\unifacisa\\AgendamentoConsultas\\AgendamentoConsultas.API\\obj\\",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\AgendamentoConsultas\\AgendamentoConsultas.API\\AgendamentoConsultas.API.csproj",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\AgendamentoConsultas\\AgendamentoConsultas.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -947,8 +952,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Code\\unifacisa\\AgendamentoConsultas\\AgendamentoConsultas.Data\\AgendamentoConsultas.Data.csproj": {
-              "projectPath": "E:\\Code\\unifacisa\\AgendamentoConsultas\\AgendamentoConsultas.Data\\AgendamentoConsultas.Data.csproj"
+            "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\AgendamentoConsultas\\AgendamentoConsultas.Data\\AgendamentoConsultas.Data.csproj": {
+              "projectPath": "C:\\Users\\anton\\OneDrive\\Área de Trabalho\\AgendamentoConsultas\\AgendamentoConsultas.Data\\AgendamentoConsultas.Data.csproj"
             }
           }
         }
@@ -992,7 +997,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

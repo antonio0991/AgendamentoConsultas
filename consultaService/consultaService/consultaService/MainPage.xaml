@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="consultaService.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <Label Text="Minhas Consultas:" FontSize="22" HorizontalOptions="Center"/>
+        <ListView x:Name="lstConsultas">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <FlexLayout Direction="Row">
+                            <Label Text="{Binding Cpf}"/>
+                            <Label Text="{Binding NomeCliente}"/>
+                        </FlexLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

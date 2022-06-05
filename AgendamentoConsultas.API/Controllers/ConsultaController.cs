@@ -1,4 +1,5 @@
 ﻿using AgendamentoConsultas.Data.Model;
+using AgendamentoConsultas.Data.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,16 +10,18 @@ namespace AgendamentoConsultas.Data.Controllers
     public class ConsultaController : ControllerBase
     {
         private readonly DataContext _dataContext;
+        private readonly ConsultaRepository _consultaRepository;
 
         public ConsultaController(DataContext dataContext)
         {
             _dataContext = dataContext;
+            _consultaRepository = new ConsultaRepository(dataContext);
         }
 
         [HttpGet]
         public ActionResult GetAll()
         {
-            return Ok(_dataContext.Consultas.ToList());
+            return Ok(_consultaRepository.GetAll());
         }
 
         [HttpGet("{ConsultaId}")]

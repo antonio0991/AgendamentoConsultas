@@ -1,0 +1,1 @@
+C:\Users\anton\OneDrive\Área de Trabalho\consultaService\consultaService\consultaService.UWP\consultaService.UWP.csproj;x86
